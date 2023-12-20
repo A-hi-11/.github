@@ -35,10 +35,10 @@ https://youtu.be/athGGQWSFq8
 https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4
 
 ## 협업Rules
-https://github.com/A-hi-11/.github.wiki.git
+[https://github.com/A-hi-11/.github.wiki.git](https://github.com/A-hi-11/.github/wiki/Rules)
 
 ## API명세
-https://documenter.getpostman.com/view/28792658/2s9YC7SrLY#c132fab8-ab5a-404c-bcda-ef9957c4afc5
+[<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Python&logoColor=white">](https://documenter.getpostman.com/view/28792658/2s9YC7SrLY#c132fab8-ab5a-404c-bcda-ef9957c4afc5):point_left: click!
 
 ## 시스템아키텍쳐
 ![KakaoTalk_20231211_162832520_01](https://github.com/A-hi-11/.github/assets/104684033/a229f588-6e02-4e3a-b5be-44c12f5886af)

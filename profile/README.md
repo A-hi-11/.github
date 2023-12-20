@@ -32,7 +32,8 @@ https://youtu.be/athGGQWSFq8
 백엔드: [https://github.com/A-hi-11/A-hi-frontend](https://github.com/A-hi-11/A-hi-backend)
 
 ## 노션링크
-https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Python&logoColor=white">](https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4):point_left: click!
+
 
 ## 협업Rules
 [https://github.com/A-hi-11/.github.wiki.git](https://github.com/A-hi-11/.github/wiki/Rules)
@@ -43,4 +44,10 @@ https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4
 ## 시스템아키텍쳐
 ![KakaoTalk_20231211_162832520_01](https://github.com/A-hi-11/.github/assets/104684033/a229f588-6e02-4e3a-b5be-44c12f5886af)
 
+## 설계문서
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Python&logoColor=white">](https://olive-margin-b2f.notion.site/d08ea986e57d472c9485cd7491d00b8a):point_left: click!
+
+## 회의록
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Python&logoColor=white">](https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4):point_left: click!
+노션페이지 하단에 아래 목록이 있습니다.
 

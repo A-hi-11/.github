@@ -10,8 +10,8 @@
 - :high_brightness:[협업 rules](#협업Rules)
 - :page_facing_up:[API 명세](#API명세)
 - :frog:[시스템 아키텍쳐](#시스템아키텍쳐)
-- :bookmark_tabs:설계 문서
-- :date:회의록 목록
+- :bookmark_tabs:[설계 문서](#설계문서)
+- :date:[회의록 목록](#회의록)
 
 
 
@@ -19,7 +19,7 @@
 | 강현수 | 권수현 | 김민주 | 박세연 | 이강현 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [<img src="https://github.com/Richter3766.png" width="100px">](https://github.com/Richter3766) | [<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) | [<img src="https://github.com/minju26.png" width="100px">](https://github.com/minju26) | [<img src="https://github.com/adorableco.png" width="100px">](https://github.com/adorableco) | [<img src="https://github.com/heed410.png" width="100px">](https://github.com/heed410) | 
-| 백엔드 | 백엔드 | 프론트엔드 | 프론트엔드 | 프론트엔드
+| 백엔드 | 백엔드 | 백엔드 | 프론트엔드 | 프론트엔드
 
 ## 배포링크
 http://api.a-hi-prompt.com
@@ -36,7 +36,7 @@ https://youtu.be/athGGQWSFq8
 
 
 ## 협업Rules
-[https://github.com/A-hi-11/.github.wiki.git](https://github.com/A-hi-11/.github/wiki/Rules)
+[:high_brightness: click](https://github.com/A-hi-11/.github/wiki/Rules)
 
 ## API명세
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Python&logoColor=white">](https://documenter.getpostman.com/view/28792658/2s9YC7SrLY#c132fab8-ab5a-404c-bcda-ef9957c4afc5):point_left: click!

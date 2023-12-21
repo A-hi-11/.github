@@ -46,6 +46,12 @@ https://youtu.be/athGGQWSFq8
 
 ## 설계문서
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Python&logoColor=white">](https://olive-margin-b2f.notion.site/d08ea986e57d472c9485cd7491d00b8a):point_left: click!
+- [요구사항 분석](https://olive-margin-b2f.notion.site/e8f64d55758c46ffbbd3b302d7ef278e)
+- [Use Case](https://olive-margin-b2f.notion.site/Use-case-11cf7b1dd77c4994a72a1b036860ab09)
+- [ER Diagram](https://olive-margin-b2f.notion.site/ER-Diagram-a36e0f684d99401fb474ebf9578052e8)
+- [Class Diagram](https://olive-margin-b2f.notion.site/Class-Diagram-31043746d9dc4517b928336fe65c5665)
+- [Sequence Diagram](https://olive-margin-b2f.notion.site/Sequence-diagram-b1782162786746dda7ae293ebc097b2b)
+- [API 명세](https://olive-margin-b2f.notion.site/API-bca6453c945547d596e35cb87a8f1df8)
 
 ## 회의록
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Python&logoColor=white">](https://www.notion.so/1-11-d1a20aa58e194d039e11ea82d237abee?pvs=4):point_left: click!
